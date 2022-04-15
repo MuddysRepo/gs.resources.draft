@@ -1,0 +1,16 @@
+
+--- digital sign certificate ---
+{
+  "cryptoKey": "GinkgoStreet CryptographicKeyPair v1.0",
+  "algorithm": "GinkgoStreet DigitalSignAlgorithm For Text (Standard v1.1)",
+  "issuer": "GinkgoStreet",
+  "issueDate": "2022/04/15",
+  "contentLabel": "license for use of 'HappyViewer.DLsite.Prerelease.1'",
+  "signature": "kLxjEF7kQZhxh6ggKSENCyDaEpJVho//oqjEiEA+Cgw6blLR6CjNuunq8iHy6dXxH8k5aknaQgZoWqTeT1sARZ7m192n3xrCA/ajgLPqgmB1PuVjT6zSkC0IG3WB/kwD/eivJVt0FZ6BL7yLCrvDktvoMwazmFVimMrKuwwA19DxXVPNJmnWoo+g40fx1y/AuXnHshsG7YplK0a4PS+IhcB/7vhFEbwAEzJwxcfrxty5BTojnfLDYSLAecB1p49MUKHzLBS4lo7zhQaRRWx11WYWpBLhDXn5oubyi+oM02G7QZIOuUxRkFnn1I1knBfoYi7G0deG3qR4iN65lW7WjQ=="
+}
+--- content ---
+{
+  "licenseId": "HappyViewer.DLsite.Prerelease.1",
+  "beginDate": "2022/04/10 00:00",
+  "endDate": "2022/04/29 23:59"
+}
