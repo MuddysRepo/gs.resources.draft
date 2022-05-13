@@ -1,5 +1,6 @@
 {
-	"message": "",
-	"warning":"",
+	"--info": "",
+	"--warn":"",
+	"--error":"",
 	"--TERM" : ""
 }
