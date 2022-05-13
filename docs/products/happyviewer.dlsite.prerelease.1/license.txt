@@ -4,13 +4,13 @@
   "cryptoKey": "GinkgoStreet CryptographicKeyPair v1.0",
   "algorithm": "GinkgoStreet DigitalSignAlgorithm For Text (Standard v1.1)",
   "issuer": "GinkgoStreet",
-  "issueDate": "2022/04/15",
+  "issueDate": "2022/05/13",
   "contentLabel": "license for use of 'HappyViewer.DLsite.Prerelease.1'",
-  "signature": "kLxjEF7kQZhxh6ggKSENCyDaEpJVho//oqjEiEA+Cgw6blLR6CjNuunq8iHy6dXxH8k5aknaQgZoWqTeT1sARZ7m192n3xrCA/ajgLPqgmB1PuVjT6zSkC0IG3WB/kwD/eivJVt0FZ6BL7yLCrvDktvoMwazmFVimMrKuwwA19DxXVPNJmnWoo+g40fx1y/AuXnHshsG7YplK0a4PS+IhcB/7vhFEbwAEzJwxcfrxty5BTojnfLDYSLAecB1p49MUKHzLBS4lo7zhQaRRWx11WYWpBLhDXn5oubyi+oM02G7QZIOuUxRkFnn1I1knBfoYi7G0deG3qR4iN65lW7WjQ=="
+  "signature": "pGXuC7qUfCCUawjgpyNS0qWb+Zlv0JGb8KXmAjslLl2n7CEnqJ/ZALsAFe7aNX3oj/aVn2kxXBd1mU9nqJfE9HfJP2l11urTypFD61iCBqJMC69widDY84YSzY9Hb2NfCULY/rRJHr2LetstJS70DB9Bi/RHVqeO5lX5PFKemquEOGVtDpTQ5iuyCI+36bsYmDD+5d3RHquw5IzymVNmIiNg0Hu/wwYTcImaYX5jA5zjDVLTfop1CUwI2mUPC6FvlbrXNbyWezwMV+LroQn/bNypQza80ppY4bNoMuaDmnGSloAOcP/hTEHiZw7Qw3PmL97PQhiS4ePX19OQ3yxcrw=="
 }
 --- content ---
 {
   "licenseId": "HappyViewer.DLsite.Prerelease.1",
-  "beginDate": "2022/04/10 00:00",
-  "endDate": "2022/04/29 23:59"
+  "beginDate": "2022/05/12 00:00",
+  "endDate": "2022/06/10 23:59"
 }
