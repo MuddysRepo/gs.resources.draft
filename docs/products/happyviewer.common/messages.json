@@ -1,0 +1,28 @@
+{
+  "messages": [
+    {
+      "level": "special",
+      "targets": [ "happyviewer.dlsite.prerelease.1" ],
+      "message": "New version available!!"
+    },
+    {
+      "level": "info",
+      "targets": [ "happyviewer.dlsite.prerelease.1" ],
+      "message": "Greeting from GinkgoStreet!"
+    },
+    {
+      "level": "warning",
+      "targets": [ "happyviewer.dlsite.prerelease.1"  ],
+      "message": "this is a sample warning message."
+    },
+    {
+      "level": "error",
+      "targets": [ "happyviewer.dlsite.prerelease.1" ],
+      "message": "this is a sample error message."
+    }
+
+
+  ],
+
+  "--TERM": ""
+}
