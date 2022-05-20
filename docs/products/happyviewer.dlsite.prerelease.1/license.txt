@@ -5,11 +5,12 @@
   "issuer": "GinkgoStreet",
   "issueDate": "2022/05/20",
   "contentLabel": "license for use of 'HappyViewer.DLsite.Prerelease.1'",
-  "signature": "jQBueCkHiIf1ayeOQ+71h812pdlb3b5oOltZyAIGAUl9HUY34NjojTA0SN7R+P2k3wdfoWLpxpEWrmaEiQQ5c9yChoQPOKhAMbo+ni7ywmG/ZEgUN2H8fQrKFcbI653Ajh1LE4qyASeC4e1Bv9FZN8JhFEzokwzJbKTOe5cbnrSZ5ehC2cTehec+cIKrKApcIInQrvIoQHVOBcP2Fid1rbkCg2DL6KfV2Qu7ZmGQeXslwGnn/DCDJeEjOLGL34kRdzl18C/wXJi7AQP0UDaG/UVrZhKLkf+/J+gu8e72QvfYw0eqDzq8cSPCWgMv5VWaT6hVg5zzugl1Bt1QzBCQPw=="
+  "signature": "Cw08rWPWtVPWe3qfDpDcmBD/L0EfjPayHIBLb+y+D7xFuVBDnBy5dA3YZHDZaJv32XZ/sSs1H7onUiLkmrhAycUOFo3rmLzpExgLPDjJvkEKILMHLjCMRsogdJrveWCIVk1ZzIAUBFUOCEzTU577kPQ3ew4IWUlCNFiFNKgIJ0qC8cYzrx97YUQE3OVyfzFlyBbj1k5T2F2ReQuKls2+MVlgWkgaOdQ2ifYLfyJfTASQnodZMXHHOxbbNX4KoNUTpRxo5aa9DbMDsIdlrLf0fWK+uTTmTOAWiPI5CWtCY1MitlCcE1sLpJT64ECGN1DI/XmkY1NZiw6f+CQIQ2Sj2A=="
 }
 --- content ---
 {
+  "licenseType": "DateRangeLicense",
   "licenseId": "HappyViewer.DLsite.Prerelease.1",
   "beginDate": "2022/05/20",
-  "endDate": "2022/06/28"
+  "endDate": "2022/06/30"
 }
