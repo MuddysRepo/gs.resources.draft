@@ -1,6 +1,7 @@
 {
 	"latestVersion" : "1.0.0",
 	"lowestAvailableVersion" : "1.0.0",
-	
+	"status" : "available",
+	"--status" : "suspended",
 	"--TERM" : ""
 }
