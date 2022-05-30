@@ -7,8 +7,17 @@
     },
     {
       "level": "info",
-      "targets": [ "happyviewer.dlsite.prerelease.1" ],
+      "targets": [ 
+        "happyviewer.*" 
+      ],
       "message": "Greeting from GinkgoStreet!"
+    },
+    {
+      "level": "info",
+      "targets": [ 
+        "happyviewer.dlsite.*" 
+      ],
+      "message": "Hello, HappyDLsite users!"
     },
     {
       "level": "warning",
